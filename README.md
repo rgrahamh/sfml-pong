@@ -12,3 +12,5 @@ Type `./pong` in command line after building it and it should run.
 |P2 | UP | DOWN|
 
 And either player can press `SPACE` to cycle if the walls are solid. The ball wraps around if the walls aren't solid.
+## Disclaimer
+The font Sansation-Bold that this implementation of Pong uses was created by Bernd Montag.
